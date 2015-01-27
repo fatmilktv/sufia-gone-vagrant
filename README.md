@@ -16,7 +16,7 @@ Components installed:
 
 Uses port forwarding:
 
-[http://localhost:38000](http://localhost:38000) -> Port 80 
+[http://localhost:33000](http://localhost:33000) -> Port 3000
 
 [http://localhost:38080/solr](http://localhost:38080/solr) -> Solr
 
