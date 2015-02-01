@@ -5,7 +5,7 @@ echo "Installing MariaDB..."
 yum -y install mariadb-server mariadb expect
 
 // Change after installation
-MYSQL_ROOT_PASSWORD=123234abc
+MYSQL_ROOT_PASSWORD=vagrant
 
 MORESECURE_MYSQL=$(expect -c "
 
