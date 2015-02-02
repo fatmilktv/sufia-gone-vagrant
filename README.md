@@ -7,7 +7,7 @@ Components installed:
 
 - Solr
 - Fedora 4
-- MariaDB *(No users are created yet, and install is not secured)*
+- MariaDB *(No users are created yet, root password = vagrant)*
 - Redis 
 - ImageMagick
 - Ruby
