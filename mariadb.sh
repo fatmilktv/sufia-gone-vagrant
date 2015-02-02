@@ -35,7 +35,7 @@ expect eof
 
 echo "$MORESECURE_MYSQL"
 
-rpm -e -y expect
+rpm -e expect
 
 systemctl enable mariadb
 systemctl start mariadb
