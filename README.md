@@ -29,7 +29,7 @@ Fits is installed under `/opt/fits`. Solr and Fuseki should index the Fedora 4 r
 
 ------
 
- TODO: Complete instructions on how to install a working Sufia in this vagrant box.  
+ TODO:  Complete instructions on how to install a working Sufia in this vagrant box.  
 
 ------
 
